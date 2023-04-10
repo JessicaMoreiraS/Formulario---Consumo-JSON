@@ -204,7 +204,7 @@ th{
     background-size: cover;
     background-repeat: no-repeat;
 }
-.mainCadastro form .areaPrecos, .mainLoginPerfil form .areaPrecos, .mainPerfil form .areaPrecos{
+.mainCadastro form .areaPrecos, .mainLoginPerfil form .areaPrecos, .mainPerfil form .areaPrecos, #areaProd{
     flex-wrap: wrap;
 }
 .mainLoginPerfil{
