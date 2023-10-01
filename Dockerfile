@@ -1,3 +1,4 @@
+
 # Use the official Node.js image as the base image
 FROM node:18
 
@@ -14,4 +15,4 @@ COPY . /main
 RUN npm install
 
 # Define the entry point for the container
-CMD ["npx json-server","db.json"]
+CMD ["npx", "json-server", "db.json"]
