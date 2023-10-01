@@ -2,7 +2,7 @@
 FROM node:18
 
 # Set the working directory in the container
-WORKDIR /main
+WORKDIR /main/Projeto/public
 
 # Expose port 3000
 EXPOSE 3000
@@ -14,4 +14,4 @@ COPY . /main
 RUN npm install
 
 # Define the entry point for the container
-CMD ["npxnpx json-server","db.json"]
+CMD ["npx json-server","db.json"]
