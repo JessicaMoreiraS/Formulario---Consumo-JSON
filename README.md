@@ -18,8 +18,8 @@ npx json-server db.json
 <br><br>
 <div align="center">
   <p>Esse projeto foi utilizado para aprendizado de outras bibliotecas, para vizualiza-lo acesse:</p>
-  <a href="https://github.com/JessicaMoreiraS/Formulario-PedidoDeCompra/tree/main"><h3>Repositório</h3></a>
-  <a href="https://formulariopedidodecompra-jessicamoreiraroso.b4a.run/"><h3>Página Web</h3></a>
+  <h3>Repositório: https://github.com/JessicaMoreiraS/Formulario-PedidoDeCompra/tree/main</h3>
+  <h3>Página Web: https://formulariopedidodecompra-jessicamoreiraroso.b4a.run/</h3>
   <img src="https://github.com/JessicaMoreiraS/Formulario---Consumo-JSON/assets/100448388/20d79d4e-db1d-497e-933f-1173a70c0f65"  width="75%">
 </div>
 
